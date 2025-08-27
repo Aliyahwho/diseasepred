@@ -34,13 +34,11 @@ joblib (for saving models)
 
 Clone the repository
 
-git clone https://github.com/username/disease-prediction.git
-cd disease-prediction
+git clone https://github.com/Aliyahwho/diseasepred.git
 
 
-Open Jupyter Notebook
 
-jupyter notebook
+Open colab Notebook
 
 
 Run the notebook step by step:
